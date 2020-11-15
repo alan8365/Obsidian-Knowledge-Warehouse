@@ -1,2 +1,2 @@
 # Obsidian-Knowledge-Warehouse
-Knowledge warehouse for practice made by obsidian.
+Knowledge warehouse made by obsidian for practice my English.
