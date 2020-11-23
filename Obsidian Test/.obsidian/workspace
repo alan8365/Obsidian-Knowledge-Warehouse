@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "36419cb3f420439f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8aaab4ca93f4b754",
+        "type": "split",
+        "children": [
+          {
+            "id": "4b7af664ee843252",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GTD.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "39297232de7e9313",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GTD.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "824eac6f48f3fd29",
+    "type": "split",
+    "children": [
+      {
+        "id": "94bb33cd5a080fe0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8740873405b8fbab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "55f933f434fbde1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ec0d906c82fa7c41",
+    "type": "split",
+    "children": [
+      {
+        "id": "7aa56dba9b37df88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d7441e0d133ad23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GTD.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "GTD.md",
+    "Untitled.md",
+    "gitter.md"
+  ]
+}
