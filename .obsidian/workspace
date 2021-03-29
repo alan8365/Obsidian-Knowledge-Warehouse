@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "74d9844e2b61042f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0a7650504974098",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "unclassified/Third-generation programming language.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24cc7835e39fd8ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb181e93557f894d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b3d6e6d8df79091",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "72a36af8da53e141",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "619f904c458cc531",
+    "type": "split",
+    "children": [
+      {
+        "id": "e875736af174a288",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "100d5f20916bae32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "unclassified/Third-generation programming language.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "unclassified/Third-generation programming language.md",
+    "README.md",
+    "unclassified/Fourth-generation programming language.md",
+    "unclassified/C (Programming Language) 1.md",
+    "unclassified/C (Programming Language).md",
+    "unclassified/Untitled.md",
+    "Third-generation programming language.md",
+    "Untitled.md",
+    "Fourth-generation programming language 1.md",
+    "Fourth-generation programming language.md"
+  ]
+}
