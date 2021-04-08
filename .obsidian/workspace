@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d0a7650504974098",
+        "id": "692c884645bad5aa",
         "type": "leaf",
         "active": true,
         "state": {
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "unclassified/Third-generation programming language.md",
-    "README.md",
-    "unclassified/Fourth-generation programming language.md",
-    "unclassified/C (Programming Language) 1.md",
-    "unclassified/C (Programming Language).md",
-    "unclassified/Untitled.md",
-    "Third-generation programming language.md",
+    "Unclassified/Third-generation programming language.md",
+    "Domain-Driven Design Tackling Complexity in the Heart of Software.md",
+    "Unclassified/SMART UI.md",
+    "Unclassified/JAVA (Programming Language).md",
+    "Unclassified/C (Programming Language).md",
+    "Unclassified/Domain-Driven Design Tackling Complexity in the Heart of Software.md",
     "Untitled.md",
-    "Fourth-generation programming language 1.md",
-    "Fourth-generation programming language.md"
+    "Unclassified/Fourth-generation programming language.md",
+    "unclassified/Third-generation programming language.md",
+    "README.md"
   ]
 }
