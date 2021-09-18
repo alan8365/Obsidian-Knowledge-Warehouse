@@ -6,11 +6,10 @@
       {
         "id": "d0a7650504974098",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "unclassified/Third-generation programming language.md",
+            "file": "unclassified/Webpack.md",
             "mode": "source"
           }
         }
@@ -69,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unclassified/Third-generation programming language.md",
+                "file": "unclassified/Webpack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,16 +86,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "d0a7650504974098",
   "lastOpenFiles": [
-    "unclassified/Third-generation programming language.md",
-    "README.md",
-    "unclassified/Fourth-generation programming language.md",
-    "unclassified/C (Programming Language) 1.md",
-    "unclassified/C (Programming Language).md",
+    "unclassified/Webpack.md",
     "unclassified/Untitled.md",
-    "Third-generation programming language.md",
-    "Untitled.md",
-    "Fourth-generation programming language 1.md",
-    "Fourth-generation programming language.md"
+    "Obsidian Test/GTD.md",
+    "Obsidian Test/JSON-LD.md",
+    "Obsidian Test/Pasted image 20201124011602.png",
+    "Obsidian Test/Pasted image 20201128222240.png",
+    "unclassified/C (Programming Language).md",
+    "unclassified/Coupling.md",
+    "README.md",
+    "unclassified/Meta-analysis.md"
   ]
 }
